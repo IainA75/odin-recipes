@@ -1,0 +1,25 @@
+body {background-color: #59a0b5;
+font-family: sans-serif;}
+img { height: 400px;
+width:auto;}
+
+.recipe-card {background-color: blanchedalmond;
+text-align:center;
+border: black;
+margin: 20px 50px 20px 50px;
+padding-top: 30px;
+border: 2px solid black;}
+
+ul { display: inline-block;
+font-size: 25px;}
+
+li{ display:inline-block;
+margin-left:20px;}
+
+h1 { font-size: 40px;}
+
+h2{ font-size: 30px;}
+
+a { color:black}
+
+a:hover {color:darkred}
